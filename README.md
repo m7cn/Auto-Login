@@ -1,2 +1,4 @@
 # hello-word
-my first project "Hello WWord"
+
+Hi Mouhcine
+This is my first project "Hello Word"
